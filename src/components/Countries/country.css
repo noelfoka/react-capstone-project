@@ -1,0 +1,24 @@
+.countryContainer {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #fff;
+  height: 50px;
+  padding: 0 10px;
+}
+
+.countryContainer:nth-child(odd) { background-color: #c54c74; }
+.countryContainer:nth-child(even) { background-color: #aa4574; }
+
+.flag-image {
+  width: 40px;
+  height: 50%;
+}
+
+.cases {
+  margin-left: auto;
+}
+
+.icon {
+  color: #fff;
+}

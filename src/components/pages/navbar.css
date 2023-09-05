@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: rgb(255, 255, 255);
+  background-color: #e14984;
+}
+
+.image {
+  width: 150px;
+  height: 50%;
+}
+
+.nav {
+  display: flex;
+  align-items: baseline;
+  background-color: #cf5383;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  padding: 0 10px;
+  gap: 10px;
+}
+
+.stats {
+  flex-grow: 1;
+}
