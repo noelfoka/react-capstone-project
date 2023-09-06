@@ -104,9 +104,7 @@ npx hint .
 
 ### Deployment
 
-You can deploy this project using: render
-
-Deploy this project on any web server
+[Live Demo](https://noel-covid19.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,9 +142,9 @@ If you like this project give me a star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) - for the original design
-- [Covid-19 API](https://mmediagroup.fr/covid-19) - for displaying the covid-19 data
+- [Covid-19 API](https://covid19api.com/) - for displaying the covid-19 data
 - [Flags API](https://countryflagsapi.com/). - for displaying the flags
-- Hat tip to [Microvers](www.microverse.org)  and all the staff
+- Hat tip to [Microverse](www.microverse.org)  and all the staff
 - Thanks to My coding Partners 
 - Thanks to My Morning-session-group and Standup-team Partners and
 - Thanks to Code Reviewers
@@ -155,8 +153,7 @@ If you like this project give me a star.
 
 ## 📝 License <a name="license"></a>
 
-
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
