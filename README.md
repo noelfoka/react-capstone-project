@@ -104,7 +104,7 @@ npx hint .
 
 ### Deployment
 
-[Live Demo](https://noel-covid19.onrender.com)
+[Live Demo](https://64f821ff5a5747438394413e--calm-truffle-8ad364.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,7 +144,7 @@ If you like this project give me a star.
 - [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) - for the original design
 - [Covid-19 API](https://covid19api.com/) - for displaying the covid-19 data
 - [Flags API](https://countryflagsapi.com/). - for displaying the flags
-- Hat tip to [Microverse](www.microverse.org)  and all the staff
+- Hat tip to [Microverse](https://www.microverse.org/))  and all the staff
 - Thanks to My coding Partners 
 - Thanks to My Morning-session-group and Standup-team Partners and
 - Thanks to Code Reviewers
