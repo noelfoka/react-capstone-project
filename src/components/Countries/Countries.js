@@ -18,7 +18,9 @@ const Countries = () => {
 
   return (
     <section>
-      {countriesData.map((country) => (<Country key={country.country} countryDate={country} />))}
+      {countriesData.map((country) => (
+        <Country key={country.country} countryDate={country} />
+      ))}
     </section>
   );
 };
