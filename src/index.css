@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: Lato, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+  background-color: #e14984;
+}
+
+code {
+  font-family: 'Courier New', monospace;
+}

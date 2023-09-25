@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  color: #fff;
+  background-color: #e14984;
+  height: 200px;
+}
+
+.image {
+  width: 100px;
+}
+
+.stats {
+  font-size: large;
+  color: rgb(255, 255, 255);
+  padding-left: 10px;
+  background-color: #ce5885;
+}
